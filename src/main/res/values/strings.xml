@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoveViewOnTouchMove</string>
+    <string name="activity_main_move_the_view">Touch and move the icon!!</string>
+</resources>
